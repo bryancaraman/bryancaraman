@@ -3,7 +3,7 @@
 ### My name is Bryan Caraman and here's a little about me!
 -  Junior studying computer science at the University of Texas at Dallas ☄️
 -  SWE Bootcamp Intern @ GoDaddy 💻
--  Fun fact: I was born in Germany, but I am Moldovan American 🇲🇩🇺🇸 (Immigrated to the US not long after so I grew up here!)
+-  Fun fact: I was born in Germany, but I am Moldovan-American 🇲🇩 🇺🇸 (Immigrated to the US not long after so I grew up here!)
 
 ## Connect with me!
 
