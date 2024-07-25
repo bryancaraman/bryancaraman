@@ -1,10 +1,11 @@
-### Hello! 👋
+# Hello! 👋
 
--  My name is Bryan Caraman and here's a little about me!
-    -  Junior studying computer science at the University of Texas at Dallas ☄️
-    -  SWE Bootcamp Intern @ GoDaddy 💻
-    -  Fun fact: I was born in Germany but I am Moldovan American 🇲🇩🇺🇸 (Immigrated to the US not long after so I grew up here!)
- 
+### About me!
+-  Junior studying computer science at the University of Texas at Dallas ☄️
+-  SWE Bootcamp Intern @ GoDaddy 💻
+-  Fun fact: I was born in Germany, but I am Moldovan American 🇲🇩🇺🇸 (Immigrated to the US not long after so I grew up here!)
+
+## Connect with me!
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:caramanbryan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/bryan-caraman-84a82324a/])
