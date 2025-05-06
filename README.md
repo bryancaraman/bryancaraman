@@ -2,7 +2,7 @@
 
 ### My name is Bryan Caraman and here's a little about me!
 -  Junior studying computer science at the University of Texas at Dallas ☄️
--  Summer 2024 SDE Intern @ GoDaddy 🧑‍💻
+-  Incoming Summer 2025 SWE Intern @ Walmart 🧑‍💻
 -  Always building something new, reach out if interested 🤩
 
 ## Connect with me!
