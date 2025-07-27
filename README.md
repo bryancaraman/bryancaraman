@@ -1,9 +1,9 @@
 # Hello! 👋
 
 ### My name is Bryan Caraman and here's a little about me!
--  Junior studying computer science at the University of Texas at Dallas ☄️
--  Incoming Summer 2025 SWE Intern @ Walmart 🧑‍💻
--  Always building something new, reach out if interested 🤩
+-  Senior studying computer science at the University of Texas at Dallas ☄️
+-  Summer 2025 SWE Intern @ Walmart 🧑‍💻
+-  Always building something new with AI, reach out if interested 🤩
 
 ## Connect with me!
 
